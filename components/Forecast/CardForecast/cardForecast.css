@@ -1,0 +1,40 @@
+.fc-card {
+    background-color: #363a56;
+    color: #c4c4ce;
+    height: 190px;
+    width: 120px;
+    margin-bottom: 32px;
+}
+
+.fc-date {
+    text-align: center;
+    padding-top: 18px;
+    padding-bottom: 10px;
+}
+
+.fc-icon {
+    display: flex;
+    justify-content: center;
+
+}
+
+#fc-img {
+    width: 65%;
+    height: 63px;
+}
+
+.fc-temp {
+    display: flex;
+    justify-content: center;
+    gap: 16px;
+    padding-top: 31px;
+}
+
+.fc-max-temp {
+    color: #cbcbd6;
+}
+
+.fc-min-temp {
+    color: #d4d4e1;
+}
+

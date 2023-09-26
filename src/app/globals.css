@@ -1,0 +1,30 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+  
+}
+
+#contenedor-principal {
+  min-height: 100vh;
+  background-color: #0f0c23;
+  color: #c8c8ec;
+  display: flex;
+  flex-direction: row;
+}
+
+#primer-container {
+  background-color: #13152f;
+  color: #7571a5;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  min-width: 400px;
+}
+
+#segundo-container {
+  padding: 25px 120px;
+}
+
+
